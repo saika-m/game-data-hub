@@ -1,4 +1,4 @@
-# Setup
+# Run
 
 1) Build jar using Maven `mvn package`
 2) Run service server `java -jar target/RestfulAPIGameData-0.1.0.jar`
